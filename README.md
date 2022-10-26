@@ -30,13 +30,13 @@ mkdir /home/deck/Games/nfsmw_pepega
 
 3. In lutris, add a new game -> Add locally installed game with settings as below:
 
-  Game info:
+  **Game info**:
   
   Name: whatever you want
   
   Runner: Wine
 
-  Game options:
+  **Game options**:
 
   Executable:
   - if you have a working installer, copy the path to Setup.exe here;
@@ -58,10 +58,10 @@ mkdir /home/deck/Games/nfsmw_pepega
   Prefix architecture: Auto (default)
 
 
-  Runner options:
+  **Runner options**:
   Wine version - lutris.fshack-7.2-x86_64
 
-  System options: nothing to change here
+  **System options**: nothing to change here
 
 4. Save config, select the game from your library and press Play. If you copied a prepared installation, skip to step 9.
 
