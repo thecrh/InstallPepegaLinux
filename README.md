@@ -31,7 +31,9 @@ mkdir /home/deck/Games/nfsmw_pepega
 3. In lutris, add a new game -> Add locally installed game with settings as below:
 
   Game info:
+  
   Name: whatever you want
+  
   Runner: Wine
 
   Game options:
