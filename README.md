@@ -8,8 +8,6 @@ Special thanks to **/u/samcool55** for sharing his config with me :^)
 
 This instruction has been tested on Steam Deck/SteamOS 3.2.1 and Arch Linux 6.0.2. May or may not require additional steps for different distros.
 
-I've included instructions 
-
 ## Pre-requisites
 
 - Lutris
